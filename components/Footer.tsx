@@ -65,33 +65,12 @@ const Footer = () => {
           </div>
           <div className="mt-8 xl:mt-0">
             <h3 className="text-sm font-semibold text-gray-400 tracking-wider uppercase">
-              اشترك في نشرتنا الإخبارية
+              تم تصميمه بواسطة
             </h3>
             <p className="mt-4 text-base text-gray-300">
-              احصل على آخر التحديثات والعروض من شركتنا.
+              <a href="https://fashne.net" className="hover:text-[#E31E24]"><span>FASHNE For Digital Marketing</span></a>
             </p>
-            <form className="mt-4 sm:flex sm:max-w-md">
-              <label htmlFor="email-address" className="sr-only">
-                البريد الإلكتروني
-              </label>
-              <input
-                type="email"
-                name="email-address"
-                id="email-address"
-                autoComplete="email"
-                required
-                className="appearance-none min-w-0 w-full bg-white border border-transparent rounded-md py-2 px-4 text-base text-gray-900 placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-white focus:border-white focus:placeholder-gray-400"
-                placeholder="أدخل بريدك الإلكتروني"
-              />
-              <div className="mt-3 rounded-md sm:mt-0 sm:mr-3 sm:flex-shrink-0">
-                <button
-                  type="submit"
-                  className="w-full bg-[#E31E24] border border-transparent rounded-md py-2 px-4 flex items-center justify-center text-base font-medium text-white hover:bg-red-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-[#E31E24]"
-                >
-                  اشترك
-                </button>
-              </div>
-            </form>
+
           </div>
         </div>
         <div className="mt-8 border-t border-gray-700 pt-8 md:flex md:items-center md:justify-between">
