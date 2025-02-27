@@ -1,0 +1,27 @@
+User-agent: *
+Allow: /
+Allow: /*?lang=ar
+Allow: /ar/*
+Allow: /riyadh/*
+
+# Priority for Saudi region
+Allow: /sa/*
+Allow: /ksa/*
+
+# Block certain parameters to focus crawling
+Disallow: /*?utm_*
+Disallow: /*?fbclid=*
+Disallow: /*?gclid=*
+
+# Sitemaps
+Sitemap: https://naqlaty-ship.com/sitemap.xml
+Sitemap: https://naqlaty-ship.com/riyadh-sitemap.xml
+
+# Crawl-delay for better server performance
+Crawl-delay: 5
+
+# Regional Search Engine Directives
+Host: https://naqlaty-ship.com
+Geographic-Location: Riyadh, Saudi Arabia
+Language: ar-SA
+Region: SA
