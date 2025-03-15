@@ -1,36 +1,36 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+ReadMe Outline for نقل عفش الرياض
+Project Name: Riyadh Transport - Naqlaty
+Introduction
+Welcome to Riyadh Transport - Naqlaty, your one-stop solution for all your furniture moving needs in Riyadh. Our service is designed to make your moving experience as smooth and stress-free as possible. Visit our website Naqlaty for more information.
 
-## Getting Started
+Features
+Professional Service: Our team of experienced movers ensures your furniture is handled with care.
+Affordable Prices: We offer competitive pricing to fit your budget.
+Timely Delivery: We guarantee on-time delivery of your items.
+Comprehensive Insurance: Your belongings are insured during transit for peace of mind.
+Customer Support: Our dedicated support team is available to assist you at every step.
+How to Use
+Visit our Website: Go to Naqlaty to book your service.
+Get a Quote: Provide details of your moving requirements and get an instant quote.
+Schedule a Move: Choose a convenient date and time for your move.
+Sit Back and Relax: Our professional movers will handle the rest.
+Services Offered
+Home Relocation: Efficient and safe home moving services.
+Office Relocation: Specialized office moving services to minimize downtime.
+Packing Services: Professional packing services to ensure the safety of your items.
+Storage Services: Secure storage solutions for your belongings.
+Testimonials
+"Naqlaty made my move so easy and hassle-free. Highly recommend their services!" - Ahmad
 
-First, run the development server:
+"Professional and reliable service. The team was very courteous and handled everything with care." - Fatimah
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Contact Us
+For any inquiries or to book a service, please visit Naqlaty or contact our customer support.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Contributing
+We welcome contributions from the community. Please follow the guidelines in our CONTRIBUTING.md file.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+You can expand each section with more details and add any other relevant information about your project. If you need further assistance with specific sections or code snippets, feel free to ask!
